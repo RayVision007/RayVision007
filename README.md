@@ -1,7 +1,7 @@
 ## Hello 👋, I am Ray Al'c
 <a href="https://www.linkedin.com/in/ray-al-c-e/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity analyst and IT security professional with hands-on experience in SIEM monitoring, endpoint security, vulnerability management, and secure infrastructure design. I also build web applications and security-focused tools that bridge defensive strategy with practical implementation.
+I’m an IT security professional with hands-on experience in SIEM monitoring, endpoint security, vulnerability management, and secure infrastructure design. I also build web applications and security-focused tools that bridge defensive strategy with practical implementation.
 
 ## Objective
 
